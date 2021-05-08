@@ -3,7 +3,7 @@ UnittestZero
 certifi==0.0.8
 chardet==1.0.1
 execnet==1.1
-py==1.4.9
+py==1.10.0
 pytest==2.2.4
 pytest-mozwebqa==1.0
 pytest-xdist==1.8
